@@ -1,0 +1,3 @@
+function getElementId(id) {
+    
+}
